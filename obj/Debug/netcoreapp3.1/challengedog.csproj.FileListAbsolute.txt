@@ -1,0 +1,11 @@
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/obj/Debug/netcoreapp3.1/challengedog.csprojAssemblyReference.cache
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/obj/Debug/netcoreapp3.1/challengedog.AssemblyInfoInputs.cache
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/obj/Debug/netcoreapp3.1/challengedog.AssemblyInfo.cs
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/bin/Debug/netcoreapp3.1/challengedog
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/bin/Debug/netcoreapp3.1/challengedog.deps.json
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/bin/Debug/netcoreapp3.1/challengedog.runtimeconfig.json
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/bin/Debug/netcoreapp3.1/challengedog.runtimeconfig.dev.json
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/bin/Debug/netcoreapp3.1/challengedog.dll
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/bin/Debug/netcoreapp3.1/challengedog.pdb
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/obj/Debug/netcoreapp3.1/challengedog.dll
+/Users/MattFurrer/Documents/MattFurrerIT2040/challengedog/obj/Debug/netcoreapp3.1/challengedog.pdb
